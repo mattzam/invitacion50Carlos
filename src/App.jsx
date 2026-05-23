@@ -761,7 +761,7 @@ function RSVP() {
           
           <p className="play" style={{color:'var(--sys-text-main)',fontSize:'clamp(18px,4.5vw,22px)',fontStyle:'italic',margin:'18px 0 36px',lineHeight:1.75,opacity:.9}}>
             ¡No olvides tú regalo!<br/>
-            ¡Confírmanos tú presencia <strong style={{color:T.gold,fontStyle:'normal'}}></strong>!
+            ¡Confírmanos tú presencia<strong style={{color:T.gold,fontStyle:'normal'}}></strong>!
           </p>
 
           <motion.a
